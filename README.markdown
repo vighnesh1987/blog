@@ -1,5 +1,5 @@
 This task contains a scaffold for the model `Post`, generated using:
 
 ```
-$ rails g scaffold Post title:string content:text author:string
+rails g scaffold Post title:string content:text author:string
 ```
