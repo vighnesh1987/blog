@@ -1,4 +1,5 @@
 This task contains an empty Rails app, generated with :
 
-$ rails new blog
-
+```
+rails new blog
+```
